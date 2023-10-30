@@ -59,3 +59,6 @@ We used synthetic fine tuning for three use cases:
 • Impact: Creates a quick and easy way to access a specific brand’s product inventory and 
 
 ## Conclusion
+• We were able to effectively fine tune Llama 7b to synthesize data for subsequent fine tuning
+• We are able to identity at least 3 use cases involving medical, financial, and product data
+• Next steps would be to create a more powerful synthetic model and improve the tuning data which is passed to each of the variable models
