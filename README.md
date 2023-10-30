@@ -1,6 +1,8 @@
 # Synthetic Fine Tuning
 Amitoj, Jameson, Karanbir, Sukhamrit
 
+[Slide Deck](https://docs.google.com/presentation/d/1DospA5SL44H6G2YET0FdZab2jb04xKzJTSjg5JwUgUw/edit?usp=sharing)
+
 ## Abstract
 Fine tuning an LLM for synthetic data generation then using synthetically generated data to fine tune subsequent LLMs for specific use cases.
 
